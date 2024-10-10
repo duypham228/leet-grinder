@@ -9,4 +9,4 @@ class Solution:
             else:
                 r = m
         
-        return l
+        return nums[l]
